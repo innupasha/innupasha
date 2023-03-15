@@ -1,5 +1,5 @@
 <h2> Hey there! I'm InNupasha. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/innupasha/master/gif3.gif" width="500"/>
+<img align="right" alt="GIF" src="https://github.com/innupasha/innupasha/blob/69b9a5d810b6293183ee3835d234a902bd67e54f/gif3.gif" width="500"/>
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning Flutter Application Development
