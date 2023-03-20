@@ -36,4 +36,7 @@
 &nbsp; <a href="mailto:innupasha2@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
+## Donate
+<a href="https://saweria.co/innupasha" target="_blank"><img src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" alt="Donate For Benny" height="41" width="174"></a>
+
 ⭐️ From [InNupasha](https://github.com/innupasha)
